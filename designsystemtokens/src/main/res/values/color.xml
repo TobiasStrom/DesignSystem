@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_deep_blue_900">#10132F</color>
+    <color name="primary_deep_blue_800">#1B1F4A</color>
+    <color name="primary_deep_blue_700">#313663</color>
+    <color name="primary_deep_blue_600">#6D7196</color>
+    <color name="primary_deep_blue_500">#8D91AF</color>
+    <color name="primary_deep_blue_400">#ABAEC5</color>
+    <color name="primary_deep_blue_300">#D8DAE8</color>
+    <color name="primary_deep_blue_200">#E7E8F3</color>
+    <color name="primary_deep_blue_100">#F7F7FD</color>
+</resources>
